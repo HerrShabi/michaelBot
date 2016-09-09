@@ -1,0 +1,27 @@
+{
+  "name": "hosted-hubot",
+  "version": "2.7.1",
+  "private": true,
+  "author": "GitHub Inc.",
+  "keywords": [
+    "github",
+    "campfire",
+    "bot"
+  ],
+  "description": "A simple helpful robot for your Company",
+  "dependencies": {
+    "@slack/client": "^3.6.0",
+    "gitio2": "2.0.0",
+    "htmlparser": "1.7.6",
+    "natural": "^0.4.0",
+    "querystring": "",
+    "soupselect": "0.2.0",
+    "strftime": "^0.8.2",
+    "underscore": "1.7.0",
+    "url": ""
+  },
+  "engines": {
+    "node": ">= 0.8.x",
+    "npm": ">= 1.1.x"
+  }
+}
